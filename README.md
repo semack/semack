@@ -23,17 +23,18 @@ I am seeking opportunities in the following positions: CTO, Researcher (R&D), De
 
 #### Technical Skills
 
-- Languages, Frameworks, and Libraries: C#, .NET, .NET Core, EF, EF Core, SignalR, WebAPI, WinForms, WPF, XNA, Mono, Mono Game, Dart, Flutter, Xamarin, Object Pascal
-- Shell: Bash, PowerShell
-- Databases: MSSQL (T-SQL, FTS, Semantic Analysis), PostgreSQL, ORACLE, Sybase, Firebird, Interbase
-- CI/CD: Jenkins, GitHub Actions, GitLab Actions, Fastlane, Travis CI, Azure DevOps Pipelines
-- Web Servers/Configurations: NGINX, Apache, IIS, Kestrel; Reverse Proxy, letsencrypt
-- Operating Systems: Linux, macOS, Windows
-- Virtualization/Containerization: ESXi, VM Ware, Docker
-- IDE: Visual Studio, Rider, IntelliJ IDEA, Android Studio, Delphi, Xamarin Studio, Unity
-- Tools: Nuget, Jira, Confluence, Azure DevOps
-- Cloud: Azure App Hosting Service, Azure Functions, Azure SQL Server, Amazon AWS S3
-- Processes/Frameworks: SDLC; Scrum, Kanban, Waterfall
-- Involvement: Pre-sale, Analysis, Estimations, Architecture, Delivery
+- **Languages, Frameworks, and Libraries:** C#, .NET, .NET Core, EF, EF Core, SignalR, WebAPI, WinForms, WPF, XNA, Mono, Mono Game, Dart, Flutter, Xamarin, Object Pascal
+- **Shell:** Bash, PowerShell
+- **Databases:** MSSQL (T-SQL, FTS, Semantic Analysis), PostgreSQL, ORACLE, Sybase, Firebird, Interbase
+- **CI/CD**: Jenkins, GitHub Actions, GitLab Actions, Fastlane, Travis CI, Azure DevOps Pipelines
+- **Web Servers/Configurations:** NGINX, Apache, IIS, Kestrel; Reverse Proxy, Letsencrypt
+- **Operating Systems:** Linux, macOS, Windows
+- **Virtualization/Containerization:** ESXi, VM Ware, Docker
+- **IDE:** Visual Studio, Rider, IntelliJ IDEA, Android Studio, Delphi, Xamarin Studio, Unity
+- **Tools:** Nuget, Jira, Confluence, Azure DevOps
+- **Cloud:** Azure App Hosting Service, Azure Functions, Azure SQL Server, Amazon AWS S3
+- **Processes/Frameworks:** SDLC; Scrum, Kanban, Waterfall
+- **Involvement:** Pre-sale, Analysis, Estimations, Architecture, Delivery
 
+Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semack@gmail.com)
