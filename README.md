@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **semack/semack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +35,5 @@ I am seeking opportunities in the following positions: CTO, Researcher (R&D), De
 - Cloud: Azure App Hosting Service, Azure Functions, Azure SQL Server, Amazon AWS S3
 - Processes/Frameworks: SDLC; Scrum, Kanban, Waterfall
 - Involvement: Pre-sale, Analysis, Estimations, Architecture, Delivery
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semack@gmail.com)
