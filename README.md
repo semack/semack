@@ -37,4 +37,5 @@ I am seeking opportunities in the following positions: CTO, Researcher (R&D), De
 - **Involvement:** Pre-sale, Analysis, Estimations, Architecture, Delivery
 
 Contact me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semack@gmail.com)
