@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=semack)
+![](https://komarev.com/ghpvc/?username=semack&style=for-the-badge)
 
 ### Hi there 👋      
 
@@ -38,6 +38,14 @@ I am seeking opportunities in the following positions: CTO, Researcher (R&D), De
 - **Processes/Frameworks:** SDLC; Scrum, Kanban, Waterfall
 - **Involvement:** Pre-sale, Analysis, Estimations, Architecture, Delivery
 
+
 Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semack@gmail.com)
+
+
+
+
+
+
+
